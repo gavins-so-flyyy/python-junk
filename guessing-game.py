@@ -21,6 +21,3 @@ while True:
         print("too high")
     elif guess < targetNum:
         print("too low")
-
-#for guess in guesses:
-#    if guess = 
